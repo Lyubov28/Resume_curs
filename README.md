@@ -35,4 +35,4 @@
 
 
 
-!["Foto"](img/foto.jpeg "Foto")
+!["Foto"](img/foto.JPG "Foto")
